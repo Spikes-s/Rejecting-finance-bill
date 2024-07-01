@@ -1,4 +1,6 @@
-body{
-background-image:url("bluelegion.jpg");
-background-repeat:repeat-y;
+body {
+  background-color: #f0f0f0; /* or any other color */
+  /* or */
+  background-image: url('thunder.jpg');
+  background-size: cover;
 }
